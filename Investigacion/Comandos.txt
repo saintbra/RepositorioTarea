@@ -1,6 +1,6 @@
 Nombre: Brandon Santorum
 Curso: B-413
-NRC: 13777
+NRC: 13930
 
 ¿Qué es Git?
 Git es un Sistema de Control de Versiones Distribuido (DVCS) utilizado para guardar diferentes 
